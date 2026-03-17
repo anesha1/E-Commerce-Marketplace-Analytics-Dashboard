@@ -171,26 +171,6 @@ Customer retention is extremely low, indicating growth opportunity
 
 Revenue heavily depends on top sellers and categories
 
-🖼️ Dashboard Preview
-Sales Overview
-
-![Sales Overview](Sales Overview Dashboard.png)
-
-Product Performance
-
-![Product Performance](Product Performance Dashboard.png)
-
-Customer & Delivery Insights
-
-![Customer](Customer & Delivery Insight Dashboard.png)
-
-Seller Performance
-
-![Seller](Seller Performance Dashboard.png)
-
-Business Performance
-
-![Business](Business Performance Dashboard.png)
 
 💡 Skills Demonstrated
 
